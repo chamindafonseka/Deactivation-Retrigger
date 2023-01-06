@@ -1,0 +1,8 @@
+1/4/2023 12:48:43 PM From InvID : 234234  To InventryID : 324234  Boxes : 0
+1/4/2023 12:48:55 PM From InvID : 19151  To InventryID : 40168  Boxes : 0
+1/4/2023 12:51:47 PM From InvID : 19151  To InventryID : 40168  Boxes : 0
+1/4/2023 12:54:47 PM From InvID : 19000  To InventryID : 30000  Boxes : 772
+1/4/2023 1:00:14 PM From InvID : 22222  To InventryID : 27777  Boxes : 526
+1/4/2023 1:48:43 PM From InvID : 15600  To InventryID : 25000  Boxes : 764
+1/4/2023 1:50:12 PM From InvID : 19151  To InventryID : 19152  Boxes : 1
+1/4/2023 1:56:06 PM From InvID : 19800  To InventryID : 22000 unallocated Boxes : 253

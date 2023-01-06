@@ -1,0 +1,11 @@
+C:\Users\chaminda\source\repos\Bulk Deactivation Retrigger\bin\Debug\Bulk Deactivation Retrigger.exe.config
+C:\Users\chaminda\source\repos\Bulk Deactivation Retrigger\bin\Debug\Bulk Deactivation Retrigger.exe
+C:\Users\chaminda\source\repos\Bulk Deactivation Retrigger\bin\Debug\Bulk Deactivation Retrigger.pdb
+C:\Users\chaminda\source\repos\Bulk Deactivation Retrigger\obj\Debug\Bulk Deactivation Retrigger.csproj.AssemblyReference.cache
+C:\Users\chaminda\source\repos\Bulk Deactivation Retrigger\obj\Debug\Bulk_Deactivation_Retrigger.Form1.resources
+C:\Users\chaminda\source\repos\Bulk Deactivation Retrigger\obj\Debug\Bulk_Deactivation_Retrigger.Properties.Resources.resources
+C:\Users\chaminda\source\repos\Bulk Deactivation Retrigger\obj\Debug\Bulk Deactivation Retrigger.csproj.GenerateResource.cache
+C:\Users\chaminda\source\repos\Bulk Deactivation Retrigger\obj\Debug\Bulk Deactivation Retrigger.csproj.CoreCompileInputs.cache
+C:\Users\chaminda\source\repos\Bulk Deactivation Retrigger\obj\Debug\Bulk Deactivation Retrigger.exe
+C:\Users\chaminda\source\repos\Bulk Deactivation Retrigger\obj\Debug\Bulk Deactivation Retrigger.pdb
+C:\Users\chaminda\source\repos\Bulk Deactivation Retrigger\obj\Debug\Bulk_Deactivation_Retrigger.Unallocated.resources
